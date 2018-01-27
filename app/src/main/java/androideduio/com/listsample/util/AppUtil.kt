@@ -29,7 +29,7 @@ object AppUtil {
         studentInfo = StudentInfo(1234124, "Gökhan Öztürk", "Maltepe Üniversitesi")
         studentList.add(studentInfo)
 
-        studentInfo = StudentInfo(1234124, "Gökhan Öztürk", "Maltepe Üniversitesi")
+        studentInfo = StudentInfo(1234124, "Gökhan Öztürk", "Bilmemne")
         studentList.add(studentInfo)
 
         studentInfo = StudentInfo(1234124, "Gökhan Öztürk", "Maltepe Üniversitesi")
